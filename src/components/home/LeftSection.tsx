@@ -14,7 +14,7 @@ export default function LeftSection() {
 
           {/* Title */}
           <p className="font-medium sm:text-4xl text-3xl text-black leading-10">
-            The internet's most <br />
+            The internet&apos;s most <br />
             <span className="font-semibold text-[#ff5e24]">accurate</span> visitor identifier
           </p>
 
